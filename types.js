@@ -1,0 +1,2 @@
+export const FILTER_POSTS = 'FILTER_POSTS';
+export const CLEAR_FILTER = 'CLEAR_FILTER';
